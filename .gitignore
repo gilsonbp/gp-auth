@@ -1,0 +1,4 @@
+.idea/
+dist/
+django_gp_auth.egg-info/
+build/
